@@ -14,9 +14,9 @@ TagManager:
   - Ground
   - Climbing
   - Bouncing
-  - 
-  - 
-  - 
+  - Enemy
+  - Hazard
+  - Bullet
   - 
   - 
   - 
@@ -52,6 +52,12 @@ TagManager:
     locked: 0
   - name: Climbing
     uniqueID: 2531977119
+    locked: 0
+  - name: Hazard
+    uniqueID: 512126901
+    locked: 0
+  - name: Enemy
+    uniqueID: 1085069393
     locked: 0
   - name: Player
     uniqueID: 982651513
